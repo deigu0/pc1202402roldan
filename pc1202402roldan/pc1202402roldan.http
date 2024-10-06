@@ -1,0 +1,6 @@
+@pc1202402roldan_HostAddress = http://localhost:5199
+
+GET {{pc1202402roldan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
